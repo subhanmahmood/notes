@@ -1,4 +1,4 @@
-#Sympy syntax
+# Sympy syntax
 
 Import sympy before starting:
 
@@ -6,7 +6,7 @@ Import sympy before starting:
 from sympy import *
 ```
 
-##Data types and basic operations
+## Data types and basic operations
 
 __Defining rational values:__
 ```python
@@ -37,7 +37,7 @@ A symbol is a placeholder for a value in an equation.
 x = Symbol("x")
 ```
 
-##Defining Functions:
+## Defining Functions:
 Defining mathematic functions is the same as defining python functions.
 ```python
 def g(x):
